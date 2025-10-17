@@ -1,7 +1,58 @@
-﻿  main.c
-C:\Users\TazerVN\Documents\github\C\SIT_CSD1401_CP_TEMPLATE\Template\Template\main.c(17,32): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-C:\Users\TazerVN\Documents\github\C\SIT_CSD1401_CP_TEMPLATE\Template\Template\main.c(17,57): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
-  Template.vcxproj -> C:\Users\TazerVN\Documents\github\C\SIT_CSD1401_CP_TEMPLATE\Template\bin\Debug-x64\Template.exe
-  3 File(s) copied
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\.tmp\Debug-x64\) contains files shared from another project (Template.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+  player.c
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player_animate.h(13,2): warning C4091: 'typedef ': ignored on left of 'Player_Animation' when no variable is declared
+  (compiling source file 'main.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player_animate.h(21,2): warning C4091: 'typedef ': ignored on left of 'Player_Sprite' when no variable is declared
+  (compiling source file 'main.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.h(7,31): warning C4091: 'extern ': ignored on left of 'Player_Animation' when no variable is declared
+  (compiling source file 'main.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.h(8,28): warning C4091: 'extern ': ignored on left of 'Player_Sprite' when no variable is declared
+  (compiling source file 'main.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.h(18,2): warning C4091: 'typedef ': ignored on left of 'Player' when no variable is declared
+  (compiling source file 'main.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player_animate.h(13,2): warning C4091: 'typedef ': ignored on left of 'Player_Animation' when no variable is declared
+  (compiling source file 'player.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player_animate.h(21,2): warning C4091: 'typedef ': ignored on left of 'Player_Sprite' when no variable is declared
+  (compiling source file 'player.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.h(7,31): warning C4091: 'extern ': ignored on left of 'Player_Animation' when no variable is declared
+  (compiling source file 'player.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.h(8,28): warning C4091: 'extern ': ignored on left of 'Player_Sprite' when no variable is declared
+  (compiling source file 'player.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.h(18,2): warning C4091: 'typedef ': ignored on left of 'Player' when no variable is declared
+  (compiling source file 'player.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(7,30): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(7,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(66,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(67,10): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(71,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(72,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(76,35): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(76,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(23,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(25,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player.c(26,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  player_animate.c
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player_animate.h(13,2): warning C4091: 'typedef ': ignored on left of 'Player_Animation' when no variable is declared
+  (compiling source file 'player_animate.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player_animate.h(21,2): warning C4091: 'typedef ': ignored on left of 'Player_Sprite' when no variable is declared
+  (compiling source file 'player_animate.c')
+  
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player_animate.c(41,34): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\Template\player_animate.c(46,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Template.vcxproj -> C:\Users\User\Documents\SIT\git\CProcessing_Test\Template\bin\Debug-x64\test.exe
+  311 File(s) copied
   1 File(s) copied
   1 File(s) copied
